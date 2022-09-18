@@ -1,0 +1,5 @@
+Binarni sistem
+
+Binarni sistem je brojevni sistem u kome se zapis sastoji samo od cifara 0 i 1. Ovo je pozicioni brojevni sistem, sa osnovom 2. 
+Svaki broj se može predstaviti kao zbir eksponenata dvojke. Zbog jednostavnosti primene u elektronskim kolima, binarni sistem koriste praktično svi moderni računari. Koncept binarnog sistema omogućen je tek sa uvođenjem koncepta nule u sistemu arapskih cifara.
+Primer binarnog zapisa: 1012 = 122 + 021 + 120, 101 u binarnom sistemu je ekvivalent broju 5 u dekadnom sistemu.
